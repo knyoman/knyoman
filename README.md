@@ -42,8 +42,8 @@ I specialize in building scalable web apps and designing intuitive digital exper
 ### 🚀 What I Do?
 
 * 💻 **Develop:** Full-stack platforms using **Next.js, TypeScript, & Supabase** (e.g., *Smardetu*).
-* 🎨 **Design:** User-centric UI/UX for mobile & web apps (e.g., *Aduan Kito*).
-* 💡 **Innovate:** Creating tech solutions for social impact.
+* 🎨 **Design:** User-centric UI/UX for mobile & web apps **Figma,Canva** (e.g., *Aduan Kito*).
+* 💡 **Innovate:** Creating tech solutions for social impact. 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
