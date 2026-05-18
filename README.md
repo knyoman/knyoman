@@ -31,8 +31,7 @@ I specialize in building scalable web apps and designing intuitive digital exper
   <a href="https://learn.microsoft.com/api/achievements/share/id-id/NyomanKusuma-4289/CYVBAKF9?sharingId=A55A4E4C685DFAA6" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="images/GitHub1.png" height="80" alt="Microsoft Badge" /></a>
   <a href="https://learn.microsoft.com/api/achievements/share/id-id/NyomanKusuma-4289/HZTMQ758?sharingId=A55A4E4C685DFAA6" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="images/GitHub_Part2of2.png" height="80" alt="Github" /></a>
   <a href="LINK_SERTIFIKAT_3" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="images/TheArcadeSpedrun.png" height="80" alt="Badge 3" /></a>
-  <a href="images/LINK_SERTIFIKAT_4" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="images/TheArcadeSpedrun.png" height="80" alt="Badge 4" /></a>
-  <a href="images/LINK_SERTIFIKAT_5" target="_blank" style="display: inline-block; margin-right: 10px;"><img src="images/TheArcadeSpedrun.png" height="80" alt="Badge 5" /></a>
+
 </div>
 
 <div align="center">
